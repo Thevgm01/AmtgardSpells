@@ -1,0 +1,57 @@
+1
+Banish#1#-#1/Life#Verbal#Spirit#20’
+Blessing Against Wounds#1#-#1/Life#Enchantment#Protection#Touch: Others
+Cancel#0#1#Unlimited#Neutral#Neutral#Touch
+Equipment: Shield, Small#2#1#-#Neutral#Neutral#-
+Equipment: Weapon, Short#3#2#-#Neutral#Neutral#-
+Experienced#2#2#-#Neutral#Neutral#-
+Harden#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Heal#1#1#Unlimited#Verbal#Spirit#Touch
+Release#1#-#2/life Charge x3#Verbal#Sorcery#Touch
+2
+Adaptive Blessing#1#2#1/Life#Enchantment#Protection#Touch: Others
+Entangle#1#4#2 balls/Unlimited#Magic Ball#Subdual#Ball
+Equipment: Weapon, Hinged#3#1#-#Neutral#Neutral#-
+Greater Release#1#-#1/Refresh#Verbal#Sorcery#20’
+Hold Person#1#-#1/Life Charge x3#Verbal#Command#20’
+Innate#2#2#1/Life#Meta-Magic#Neutral#-
+Sever Spirit#1#-#1/Life Charge x3#Verbal#Spirit#20’
+Shove#1#-#1/Life#Verbal#Sorcery#20’
+Summon Dead#1#-#1/Life Charge x3#Verbal#Spirit#50’
+3
+Adaptive Protection#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Astral Intervention#1#-#1/Life Charge x3#Verbal#Command#20’
+Equipment: Shield, Medium#2#1#-#Neutral#Neutral#-
+Extension#1#2#1/Life#Meta-Magic#Neutral#-
+Greater Harden#2#-#1/Refresh#Enchantment#Protection#Touch: Others
+Iceball#1#2#2 Balls/Unlimited#Magic Ball#Subdual#Ball
+Mend#1#-#1/Life#Verbal#Sorcery#Touch
+Resurrect#1#-#1/Refresh Charge x5#Verbal#Spirit#Touch
+Undead Minion#1#-#1/Refresh#Enchantment#Death#Touch: Others
+4
+Blessing Against Harm#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Circle of Protection#1#1#1/Refresh Charge x10#Enchantment#Protection#Self
+Greater Heal#1#-#1/Life#Verbal#Spirit#Touch
+Imbue Shield#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Protection from Projectiles#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Swift#1#2#1/Life#Meta-Magic#Neutral#-
+Teleport#1#2#1/Life#Verbal#Sorcery#Touch
+5
+Abeyance#1#2#1 Ball/Unlimited#Magic Ball#Subdual#Ball
+Ambulant#1#-#1/Refresh#Meta-Magic#Neutral#-
+Blessed Aura#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Dispel Magic#1#-#1/Refresh#Verbal#Sorcery#20’
+Enlightened Soul#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Greater Resurrect#1#-#1/Refresh#Verbal#Spirit#Touch
+Greater Undead Minion#2#-#1/Refresh#Enchantment#Death#Touch: Others
+Steal Life Essence#1#2#1/Life#Verbal#Death#Touch
+6
+Ancestral Armor#2#-#1/Refresh#Enchantment#Protection#Touch: Others
+Mass Healing#1#1#1/Refresh#Enchantment#Spirit#Self
+Necromancer#1#1#-#Neutral#Neutral#-
+Persistent#1#-#1/Life#Meta-Magic#Neutral#-
+Phoenix Tears#1#-#1/Refresh#Enchantment#Spirit#Touch: Others
+Priest#1#1#-#Neutral#Neutral#-
+Protection from Magic#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Stun#1#4#1/Refresh#Verbal#Sorcery#20’
+Warder#2#1#-#Neutral#Neutral#-

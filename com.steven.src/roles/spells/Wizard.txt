@@ -1,0 +1,60 @@
+1
+Banish#1#-#1/Life#Verbal#Spirit#20’
+Cancel#0#1#Unlimited#Neutral#Neutral#Touch
+Equipment: Weapon, Short#2#1#-#Neutral#Neutral#-
+Experienced#2#2#-#Neutral#Neutral#-
+Force Barrier#1#-#1/Refresh#Verbal#Sorcery#Self
+Force Bolt#1#4#3 Balls/Unlimited#Magic Ball#Sorcery#Ball
+Heat Weapon#1#-#1/Life#Verbal#Flame#20’
+Mend#1#-#1/Life#Verbal#Sorcery#Touch
+Shove#1#-#1/Life Charge x3#Verbal#Sorcery#20’
+
+2
+Astral Intervention#1#-#1/Life#Verbal#Command#20’
+Break Concentration#1#-#1/Life#Verbal#Command#20’
+Entangle#1#3#2 Balls/Unlimited#Magic Ball#Subdual#Ball
+Innate#1#-#1/Refresh#Meta-Magic#Neutral#-
+Planar Grounding#1#-#1/Refresh#Verbal#Sorcery#20’
+Release#1#-#1/Life#Verbal#Sorcery#Touch
+Suppression Bolt#1#3#1 Ball/Unlimited#Magic Ball#Subdual#Ball
+Teleport#1#2#1/Life#Verbal#Sorcery#Touch
+3
+Dispel Magic#1#-#1/Refresh Charge x3#Verbal#Sorcery#20’
+Dragged Below#1#-#1/Refresh#Verbal#Death#20’
+Extension#1#2#1/Life#Meta-Magic#Neutral#-
+Greater Mend#1#-#1/Refresh#Verbal#Sorcery#Touch
+Hold Person#1#-#1/Life#Verbal#Command#20’
+Iceball#1#3#2 Balls/Unlimited#Magic Ball#Subdual#Ball
+Lightning Bolt#1#4#1 Ball/Unlimited#Magic Ball#Flame#Ball
+Ravage#1#-#2/life#Verbal#Death#20’
+Shatter Weapon#1#-#1/Refresh#Verbal#Sorcery#20’
+Throw#1#-#1/Refresh#Verbal#Sorcery#20’
+4
+Destroy Armor#1#-#2/Refresh#Verbal#Death#20’
+Dimensional Rift#1#-#1/Refresh#Verbal#Sorcery#20’
+Fireball#1#4#1 Ball/Unlimited#Magic Ball#Flame#Ball
+Icy Blast#1#-#1/Refresh#Verbal#Sorcery#20’
+Shatter#1#-#1/Refresh#Verbal#Sorcery#20’
+Suppress Aura#1#-#1/Refresh#Verbal#Command#50’
+Swift#1#2#1/Life#Meta-Magic#Neutral#-
+Vampirism#1#-#1/Refresh#Enchantment#Death#Touch: Others
+Wounding#1#-#1/Refresh Charge x3#Verbal#Death#20’
+5
+Ambulant#1#2#1/Life#Meta-Magic#Neutral#-
+Contagion#1#-#1/Refresh#Enchantment#Death#Touch: Others
+Equipment: Weapon, Long#4#1#-#Neutral#Neutral#-
+Phase Bolt#1#4#1 Ball/Unlimited#Magic Ball#Sorcery#Ball
+Pyrotechnics#1#2#1/Refresh#Verbal#Flame#50’
+Steal Life Essence#1#2#1/Life#Verbal#Death#Touch
+Void Touched#1#2#1/Refresh#Enchantment#Sorcery#Touch: Others
+Ward Self#1#2#1/Refresh#Enchantment#Protection#Self
+6
+Battlemage#2#1#-#Neutral#Neutral#-
+Elemental Barrage#1#2#1/Refresh#Verbal#Sorcery#Self
+Evoker#2#1#-#Neutral#Neutral#-
+Finger of Death#1#-#1/Refresh#Verbal#Death#20’
+Persistent#2#-#1/Refresh#Meta-Magic#Neutral#-
+Protection from Magic#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Sphere of Annihilation#2#1#1 Ball/Unlimited#Magic Ball#Sorcery#Ball
+Warlock#2#1#-#Neutral#Neutral#-
+Word of Mending#1#-#1/Refresh#Verbal#Sorcery#Touch

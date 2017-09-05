@@ -1,0 +1,50 @@
+1
+Cancel#0#1#Unlimited#Neutral#Neutral#Touch
+Confidence#1#-#1/Refresh Charge x5#Verbal#Sorcery#Touch
+Equipment: Weapon, Short#2#2#-#Neutral#Neutral#-
+Experienced#2#2#-#Neutral#Neutral#-
+Insult#1#-#1/Life#Verbal#Command#20’
+Release#1#-#1/Life#Verbal#Sorcery#Touch
+Shove#1#-#1/Life#Verbal#Sorcery#20’
+Song of Determination#1#1#Unlimited#Enchantment#Protection#Self
+2
+Empower#1#-#2/Refresh#Verbal#Sorcery#Touch
+Equipment: Armor, 1 Point#4#1#-#Neutral#Neutral#-
+Greater Release#1#-#1/Refresh#Verbal#Sorcery#20’
+Innate#1#4#1/Refresh#Meta-Magic#Neutral#-
+Mend#1#-#1/Life#Verbal#Sorcery#Touch
+Song of Battle#1#1#Unlimited#Enchantment#Protection#Self
+Song of Visit#1#1#Unlimited#Enchantment#Protection#Self
+3
+Awe#1#-#1/Life#Verbal#Command#20’
+Battlefield Triage#1#1#1/Refresh#Enchantment#Spirit#Self/Touch: Others
+Break Concentration#1#-#1/Refresh#Verbal#Command#20’
+Extension#1#2#1/Life#Meta-Magic#Neutral#-
+Equipment: Shield, Small#2#1#-#Neutral#Neutral#-
+Song of Freedom#1#1#Unlimited#Enchantment#Protection#Self
+4
+Amplification#1#-#1/Refresh#Verbal#Sorcery#Touch
+Equipment: Weapon, Long#3#1#-#Neutral#Neutral#-
+Restoration#1#-#1/Refresh#Verbal#Sorcery#Touch
+Sleight of Mind#1#-#1/Refresh#Enchantment#Sorcery#Touch: Others
+Song of Deflection#1#1#Unlimited#Enchantment#Protection#Self
+Song of Power#1#1#Unlimited#Enchantment#Protection#Self
+Suppress Aura#1#-#1/Refresh#Verbal#Command#50’
+Swift#1#2#1/Life#Meta-Magic#Neutral#-
+Terror#1#-#1/Refresh#Verbal#Death#20’
+5
+Agoraphobia#1#-#1/Refresh#Verbal#Command#20’
+Ambulant#1#2#1/Life#Meta-Magic#Neutral#-
+Discordia#1#1#1/Refresh#Enchantment#Command#Self
+Equipment: Shield, Medium#3#1#-#Neutral#Neutral#-
+Heart of the Swarm#1#-#1/Refresh#Enchantment#Spirit#Self
+Lost#1#-#1/Life#Verbal#Command#20’
+Song of Survival#1#1#Unlimited#Enchantment#Protection#Self
+6
+Combat Caster#2#1#-#Neutral#Neutral#-
+Dervish#2#1#-#Neutral#Neutral#-
+Equipment: Armor, 1 Point#2#1#-#Neutral#Neutral#-
+Legend#1#1#-#Neutral#Neutral#Self
+Silver Tongue#1#-#1/Refresh#Enchantment#Sorcery#Self/Touch: Others
+Song of Interference#1#1#1/Refresh Charge x5#Enchantment#Protection#Self
+Stun#1#-#1/Refresh#Verbal#Sorcery#20’

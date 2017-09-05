@@ -1,0 +1,58 @@
+1
+Barkskin#1#2#1/Refresh#Enchantment#Protection#Touch: Others
+Cancel#0#1#Unlimited#Neutral#Neutral#Touch
+Corrosive Mist#1#1#1/Refresh#Enchantment#Death#Self/Touch: Others
+Entangle#1#2#2 Balls/Unlimited#Magic Ball#Subdual#Ball
+Equipment: Weapon, Short#2#2#-#Neutral#Neutral#-
+Experienced#2#2#-#Neutral#Neutral#-
+Heat Weapon#1#-#1/Life Charge x3#Verbal#Flame#20’
+Imbue Armor#1#-#1/Refresh#Enchantment#Protection#Touch: Others
+Mend#1#-#1/Life#Verbal#Sorcery#Touch
+
+2
+Equipment: Shield, Small#4#1#-#Neutral#Neutral#-
+Gift of Earth#1#2#1/Refresh#Enchantment#Protection#Touch: Others
+Heal#1#-#1/Life#Verbal#Spirit#Touch
+Iceball#1#2#2 Balls/Unlimited#Magic Ball#Subdual#Ball
+Innate#1#4#1/Refresh#Meta-Magic#Neutral#-
+Poison#1#-#1/Life#Enchantment#Death#Touch: Others
+Release#1#-#1/Life#Verbal#Sorcery#Touch
+Stoneform#1#-#1/Refresh Charge x3#Verbal#Protection#Self
+3
+Attuned#1#2#1/Refresh#Enchantment#Sorcery#Touch: Others
+Bear Strength#1#-#1/Refresh#Enchantment#Sorcery#Touch: Others
+Dispel Magic#1#-#1/Refresh#Verbal#Sorcery#20’
+Extension#1#2#1/Life#Meta-Magic#Neutral#-
+Gift of Fire#1#2#1/Refresh#Enchantment#Flame#Touch: Others
+Greater Mend#1#-#1/Refresh#Verbal#Sorcery#Touch
+Icy Blast#1#2#1/Life#Verbal#Sorcery#20’
+Regeneration#1#-#1/Refresh#Enchantment#Spirit#Touch: Others
+Stoneskin#1#2#1/Refresh#Enchantment#Protection#Touch: Others
+4
+Equipment: Weapon, Long#4#1#-#Neutral#Neutral#-
+Flame Blade#2#2#1/Refresh#Enchantment#Flame#Touch: Others
+Force Bolt#1#2#2 Balls/Unlimited#Magic Ball#Sorcery#Ball
+Gift of Water#1#2#1/Refresh#Enchantment#Sorcery#Touch: Others
+Golem#1#-#1/Refresh#Enchantment#Sorcery#Touch: Others
+Lycanthropy#1#2#1/Refresh#Enchantment#Death#Touch: Others
+Swift#1#2#1/Life#Meta-Magic#Neutral#-
+Teleport#1#2#1/Life#Verbal#Sorcery#Touch
+5
+Ambulant#1#2#1/Life#Meta-Magic#Neutral#-
+Equipment: Weapon, Great#5#1#-#Neutral#Neutral#-
+Essence Graft#1#-#1/Refresh#Enchantment#Sorcery#Touch: Others
+Gift of Air#1#2#1/Refresh#Enchantment#Protection#Touch: Others
+Heart of the Swarm#1#2#1/Refresh#Enchantment#Spirit#Self
+Ironskin#1#2#1/Refresh#Enchantment#Protection#Touch: Others
+Poison Glands#1#2#1/Refresh#Enchantment#Death#Touch: Others
+Resurrect#2#-#1/Refresh#Verbal#Spirit#Touch
+Troll Blood#1#2#1/Refresh#Enchantment#Protection#Touch: Others
+6
+Avatar of Nature#1#1#-#Neutral#Neutral#-
+Call Lightning#1#-#1/Refresh#Verbal#Flame#20’
+Grasping Tentacles#1#1#1/Refresh#Enchantment#Command#Self
+Imbue Weapon#1#-#1/Refresh#Enchantment#Death#Touch: Others
+Naturalize Magic#1#2#1/Refresh#Enchantment#Sorcery#Self
+Ranger#2#1#-#Neutral#Neutral#-
+Summoner#2#1#-#Neutral#Neutral#-
+Word of Mending#1#-#1/Refresh#Verbal#Sorcery#Touch

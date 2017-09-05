@@ -1,0 +1,7 @@
+AAAA#Druid#2
+1#Cancel#1
+1#Barkskin#2
+1#Corrosive Mist#1
+1#Entangle#2
+2#Iceball#2
+2#Innate#3
