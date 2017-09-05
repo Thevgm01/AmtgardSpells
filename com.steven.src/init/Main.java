@@ -15,6 +15,8 @@ import roles.SpellList;
 
 public class Main {
 
+	// This is simply a test
+	
 	public static void main(String[] args) throws IOException {
 		Role[] roles = loadRoles("/roles/roles.txt");
 		Input in = new Input();
